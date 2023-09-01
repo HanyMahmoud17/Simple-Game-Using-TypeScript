@@ -3,12 +3,12 @@
 	"tasks": [
 		{
 			"type": "typescript",
-			"tsconfig": "../../../../../../C:/Users/LAPTOP WORLD/Desktop/projects/SimpleGame Using TypeScript/tsconfig.json",
+			"tsconfig": "tsconfig.json",
 			"problemMatcher": [
 				"$tsc"
 			],
 			"group": "build",
-			"label": "tsc: build - ../../../../../../C:/Users/LAPTOP WORLD/Desktop/projects/SimpleGame Using TypeScript/tsconfig.json"
+			"label": "tsc: build - tsconfig.json"
 		}
 	]
 }
